@@ -4,3 +4,4 @@
 *.cmake linguist-detectable=false
 *.dart linguist-detectable=true
 *.html linguist-detectable=false
+*.txt linguist-detectable=false
