@@ -5,3 +5,4 @@
 *.dart linguist-detectable=true
 *.html linguist-detectable=false
 *.txt linguist-detectable=false
+*.cc linguist-detectable=false
